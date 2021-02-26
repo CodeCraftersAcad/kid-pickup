@@ -37,3 +37,8 @@
 * Machine learning for approptiate pickup time and when to go pickup child(ren)
 * Google login and auth
 * Google Maps
+
+## DB Diagram
+[DB Diagram Link](https://dbdiagram.io/d/6039757ffcdcb6230b21ba50)
+
+![Diagram Image]("./backend/public/images/db_diagram_draft1.png")
